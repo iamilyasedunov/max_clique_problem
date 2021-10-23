@@ -1,0 +1,13 @@
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz   1.99 GHz
+
+graph,obj_value,obj_value_cplex,time,is_clique
+johnson8-2-4.clq, 4, 4.0, 0.182164, True
+hamming6-4.clq, 4, 4.0, 1.74027, True
+MANN_a9.clq, 16, 16.0, 0.138061, True
+c-fat200-1.clq, 12, 12.0, 0.574469, True
+hamming6-2.clq, 32, 32.0, 0.125853, True
+johnson8-4-4.clq, 14, 14.0, 1.440016, True
+c-fat200-2.clq, 24, 24.0, 0.662849, True
+c-fat500-1.clq, 14, 14.0, 3.717985, True
+c-fat200-5.clq, 58, 58.0, 15.681864, True
+c-fat500-2.clq, 26, 26.0, 5.156216, True
